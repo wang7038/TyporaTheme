@@ -11,6 +11,7 @@ sub_info  0B  1.097G  2024-08-15 01:32:09+08:00  (剩余 1.097G 10:01:34.515821)
 sub_url  https://network.ayucloud.nl/link/cDtVQCLbg41LmSHN?clash=1
 time  2024-08-14 01:32:11.096493+08:00
 type  sspanel
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (504 Gateway Timeout '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>504 Gateway Timeout</title>\n\t<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n\t<style>\n\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n\n<h1>504 Gateway Timeout</h1>\n<p>The site is unavailable now, cause: Read origin site timeout.</p>\n\n<address>Connection: 40.79.247.227 (Client) -&gt; 10.0.0.81 (Server)</address>\n<address>Request ID: 1723623052531341000001.</address>\n\n</body>\n</html>')
 
 [qlgq.top]
 auto_invite  F
@@ -19,7 +20,7 @@ email  ymzawgzpj817@guerrillamail.com
 last_checkin  2024-08-14 00:07:42.482631+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-08-15 00:07:42+08:00  (剩余 888G 8:37:10.036565)
+sub_info  0B  888G  2024-08-15 00:07:42+08:00  (剩余 888G 7:58:54.217176)
 sub_url  https://www.qlgq.top/link/a867388e07e0cb9a?clash=1
 time  2024-08-14 00:07:43.411306+08:00
 type  sspanel
@@ -31,7 +32,7 @@ email  chynfhhv140@gmail.com
 last_checkin  2024-08-14 15:30:32.875994+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  420M  2024-08-14 21:30:18+08:00  (剩余 420M 5:59:36.318269)
+sub_info  0B  420M  2024-08-14 21:30:18+08:00  (剩余 420M 5:21:27.599246)
 sub_url  https://qslink.yeahfast.com/link/BD8RnwsUJ35qyEu6?clash=1
 time  2024-08-14 15:30:33.749867+08:00
 type  sspanel
@@ -39,4 +40,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mqtofoe421@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(uxjuwjvg551@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
