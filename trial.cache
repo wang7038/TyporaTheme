@@ -12,7 +12,8 @@ sub_url  https://network.ayucloud.nl/link/aZTtLlp8kSKMmexk?clash=1
 time  2024-08-15 01:30:50.726315+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(iimixdhf56@bareed.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 auto_invite  F
@@ -21,7 +22,7 @@ email  opvetqhe576@ktse.haihantnc.xyz
 last_checkin  2024-08-16 00:37:48.786049+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-08-16 23:02:34+08:00  (剩余 888G 20:53:21.863913)
+sub_info  0B  888G  2024-08-16 23:02:34+08:00  (剩余 888G 20:24:38.192535)
 sub_url  https://www.qlgq.top/link/5d661e842693b213?clash=1
 time  2024-08-15 23:02:35.617184+08:00
 type  sspanel
@@ -33,7 +34,7 @@ email  jsofkwc503@gmail.com
 last_checkin  2024-08-16 01:00:51.071483+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  540M  2024-08-16 07:00:35+08:00  (剩余 540M 4:51:11.993697)
+sub_info  0B  540M  2024-08-16 07:00:35+08:00  (剩余 540M 4:22:31.469081)
 sub_url  https://qslink.yeahfast.com/link/C5fJCHXiCMcO7GW8?clash=1
 time  2024-08-16 01:00:51.958603+08:00
 type  sspanel
@@ -41,4 +42,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cxgngft568@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(ysbeczj528@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
