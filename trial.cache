@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz
 buy  pass
-email  bxtbymr136@snapmail.cc
-last_checkin  2024-08-31 00:38:41.682709+08:00
+email  rslpuvg571@miteon.com
+last_checkin  2024-08-31 11:07:00.252091+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  3.494M  1.859G  2024-08-31 11:34:30+08:00  (剩余 1.856G 0:43:29.291017)
-sub_url  https://network.ayucloud.nl/link/1xq8WpoVm3oQOj9K?clash=1
-time  2024-08-30 11:34:31.595537+08:00
+sub_info  0B  1.15G  2024-09-01 11:06:59+08:00  (剩余 1.15G 23:59:54.751694)
+sub_url  https://network.ayucloud.nl/link/sVE9JrQTcHpCU6kO?clash=1
+time  2024-08-31 11:07:01.165714+08:00
 type  sspanel
 
 [qlgq.top]
@@ -19,10 +19,11 @@ email  hyeewpm444@guerrillamail.com
 last_checkin  2024-08-31 10:51:18.686417+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-09-01 10:51:18+08:00  (剩余 888G 23:59:57.281054)
+sub_info  0B  888G  2024-09-01 10:51:18+08:00  (剩余 888G 23:44:25.032785)
 sub_url  https://www.qlgq.top/link/30c631a851a97c98?clash=1
 time  2024-08-31 10:51:19.487187+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [cyanmori.com]
 auto_invite  F
@@ -31,7 +32,7 @@ email  wjvtzmv14@gmail.com
 last_checkin  2024-08-31 10:02:08.247688+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  593M  2024-08-31 16:01:42+08:00  (剩余 593M 5:10:46.618042)
+sub_info  0B  593M  2024-08-31 16:01:42+08:00  (剩余 593M 4:53:18.617429)
 sub_url  https://qslink.yeahfast.com/link/RJ47UNpMNfWLJyhk?clash=1
 time  2024-08-31 10:02:09.055541+08:00
 type  sspanel
@@ -39,4 +40,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ndqgoecr827@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(ttecxht708@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
