@@ -7,7 +7,7 @@ email  nxhyjneiw96@456.waocq.shop
 last_checkin  2024-10-05 12:08:58.964228+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  297.3M  1.19G  2024-10-06 12:08:58+08:00  (剩余 921.7M 14:36:30.457712)
+sub_info  297.7M  1.19G  2024-10-06 12:08:58+08:00  (剩余 921.3M 14:08:01.436757)
 sub_url  https://network.ayucloud.nl/link/vOzNZRsYRgyOIExp?clash=1
 time  2024-10-05 12:08:59.836174+08:00
 type  sspanel
@@ -19,10 +19,11 @@ email  vwmzfriut805@lplso.tmmad.com
 last_checkin  2024-10-05 20:11:14.210274+08:00
 name  墙了个墙
 node_n  30
-sub_info  2.367M  888G  2024-10-06 20:11:14+08:00  (剩余 888G 22:38:51.874756)
+sub_info  2.368M  888G  2024-10-06 20:11:14+08:00  (剩余 888G 22:10:18.528685)
 sub_url  https://www.qlgq.top/link/5a39da41f96ec91f?clash=1
 time  2024-10-05 20:11:15.332721+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cyanmori.com]
 auto_invite  F
@@ -36,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mrlbrrd698@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(xqwftha821@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
