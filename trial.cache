@@ -7,7 +7,7 @@ email  tbfvjwzjd26@965.tmmad.com
 last_checkin  2024-10-18 00:42:06.057408+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  79.42M  1.75G  2024-10-18 21:17:59+08:00  (剩余 1.672G 2:38:16.405166)
+sub_info  79.42M  1.75G  2024-10-18 21:17:59+08:00  (剩余 1.672G 2:16:15.907999)
 sub_url  https://network.ayucloud.nl/link/iaWA8XGeHI6lB8ni?clash=1
 time  2024-10-17 21:18:00.527343+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  thyukwn221@jkb.tmmad.com
 last_checkin  2024-10-18 15:07:35.045593+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-10-19 15:07:34+08:00  (剩余 888G 20:27:52.042600)
+sub_info  0B  888G  2024-10-19 15:07:34+08:00  (剩余 888G 20:06:00.392630)
 sub_url  https://www.qlgq.top/link/a6cdb821a390f49e?clash=1
 time  2024-10-18 15:07:35.852337+08:00
 type  sspanel
@@ -36,10 +36,10 @@ sub_info  0B  425M  2024-09-19 20:10:22+08:00  (剩余 425M 3:31:16.873466)
 sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mgddfqvga130@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(lepuibfua717@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
