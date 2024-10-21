@@ -7,11 +7,12 @@ email  gdrsolhpl177@456.xhr27a2233.shop
 last_checkin  2024-10-21 00:39:01.761295+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  490.8M  1.806G  2024-10-21 12:38:38+08:00  (剩余 1.326G -1 day, 23:59:36.962018)
+sub_info  0B  0B  2024-10-21 12:38:38+08:00  (剩余 0B -1 day, 23:29:39.067612)
 sub_url  https://network.ayucloud.nl/link/SkwCTpmpEcRBzvQk?clash=1
 time  2024-10-20 12:38:39.756186+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ukbiovu216@bareed.ws): 邮箱后缀已被拉黑
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [qlgq.top]
 auto_invite  F
@@ -21,11 +22,10 @@ email  cxhypsby943@sharklasers.com
 last_checkin  2024-10-21 12:09:58.801850+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-10-22 12:09:58+08:00  (剩余 888G 23:31:05.561388)
+sub_info  84.25K  888G  2024-10-22 12:09:58+08:00  (剩余 888G 23:01:33.017062)
 sub_url  https://www.qlgq.top/link/465b3dd55ce8f1e9?clash=1
 time  2024-10-21 12:09:59.598742+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cqsgozk488@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(hyyimetlf734@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
