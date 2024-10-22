@@ -7,7 +7,7 @@ email  nnzuvrheg443@mydefipet.live
 last_checkin  2024-10-23 00:41:37.874948+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  266.6M  1.695G  2024-10-23 13:37:05+08:00  (剩余 1.435G 9:28:36.487506)
+sub_info  270.2M  1.695G  2024-10-23 13:37:05+08:00  (剩余 1.431G 9:03:24.790894)
 sub_url  https://network.ayucloud.nl/link/YqW8r7uwrztCwAgx?clash=1
 time  2024-10-22 13:37:06.736129+08:00
 type  sspanel
@@ -25,7 +25,7 @@ sub_url  https://qlgq.top/link/88bcac58d2c584f4?clash=1
 time  2024-10-22 12:09:35.074891+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/88bcac58d2c584f4?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lwtjxeda816@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(nuloqazcr399@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
