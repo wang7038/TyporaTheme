@@ -7,7 +7,7 @@ email  edtbyyzf19@lplso.tmmad.com
 last_checkin  2024-10-24 00:42:58.501265+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  380.8M  1.753G  2024-10-24 13:07:59+08:00  (剩余 1.381G 7:01:13.256240)
+sub_info  380.8M  1.753G  2024-10-24 13:07:59+08:00  (剩余 1.381G 6:30:48.610227)
 sub_url  https://network.ayucloud.nl/link/S7BhyGC1TYWONVx7?clash=1
 time  2024-10-23 13:08:00.461429+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  1024K  888G  2024-10-23 12:09:33+08:00  (剩余 888G 12:33:55.347282)
 sub_url  https://qlgq.top/link/88bcac58d2c584f4?clash=1
 time  2024-10-22 12:09:35.074891+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/88bcac58d2c584f4?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
+尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iirfqcsb70@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(qhrarufus289@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
