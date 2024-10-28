@@ -7,10 +7,11 @@ email  rmecycf368@jkd.tmmad.com
 last_checkin  2024-10-28 12:10:07.502521+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  419.9M  1.134G  2024-10-29 12:10:07+08:00  (剩余 741.1M 13:31:36.286989)
+sub_info  529M  1.134G  2024-10-29 12:10:07+08:00  (剩余 632M 13:02:21.104490)
 sub_url  https://network.ayucloud.nl/link/CgYWErX1D8AZjNJn?clash=1
 time  2024-10-28 12:10:08.423553+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 auto_invite  F
@@ -44,4 +45,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(icpkowk12@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(friecqfr143@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
