@@ -7,26 +7,23 @@ email  sucdelp881@mydefipet.live
 last_checkin  2024-10-31 00:43:29.234869+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  60.07M  1.739G  2024-10-31 23:07:38+08:00  (剩余 1.681G 12:55:03.327430)
+sub_info  143.9M  1.739G  2024-10-31 23:07:38+08:00  (剩余 1.599G 12:02:40.047430)
 sub_url  https://network.ayucloud.nl/link/OXA2sQsAQ9iCyb6J?clash=1
 time  2024-10-30 23:07:39.955042+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 auto_invite  F
 banned_domains  femailtor.com  mydefipet.live
 buy  pass
-email  qnvfzhei1@guerrillamailblock.com
-last_checkin  2024-10-22 12:09:34.179296+08:00
+email  pxuekggo485@rgzx.tmmad.com
+last_checkin  2024-10-31 11:05:08.550555+08:00
 name  墙了个墙
 node_n  30
-sub_info  1024K  888G  2024-10-23 12:09:33+08:00  (剩余 888G 12:33:55.347282)
-sub_url  https://qlgq.top/link/88bcac58d2c584f4?clash=1
-time  2024-10-22 12:09:35.074891+08:00
+sub_info  0B  888G  2024-11-01 11:05:08+08:00  (剩余 888G 23:59:56.564051)
+sub_url  https://www.qlgq.top/link/1701c299fa7caed3?clash=1
+time  2024-10-31 11:05:09.433034+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/88bcac58d2c584f4?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -40,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hkzptpn380@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(yekowjewf727@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
