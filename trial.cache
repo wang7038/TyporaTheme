@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com
 buy  pass
-email  fnhcokd497@111.vzfpx.shop
-last_checkin  2024-11-01 00:41:28.791274+08:00
+email  pqtscfwo745@bccto.cc
+last_checkin  2024-11-01 22:36:55.510229+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  398.1M  1.651G  2024-11-01 23:07:26+08:00  (剩余 1.263G 1:00:20.157939)
-sub_url  https://network.ayucloud.nl/link/dDgZmCYr7zNJilTU?clash=1
-time  2024-10-31 23:07:27.509941+08:00
+sub_info  0B  1.156G  2024-11-02 22:36:55+08:00  (剩余 1.156G 23:59:55.484156)
+sub_url  https://network.ayucloud.nl/link/pJVPN28BpprGwp7y?clash=1
+time  2024-11-01 22:36:56.494711+08:00
 type  sspanel
 
 [qlgq.top]
@@ -20,7 +20,7 @@ email  nhowdcigw290@111.vzfpx.shop
 last_checkin  2024-11-01 11:09:20.958663+08:00
 name  墙了个墙
 node_n  30
-sub_info  134.2M  888G  2024-11-02 11:09:20+08:00  (剩余 887.9G 13:02:17.436363)
+sub_info  137.5M  888G  2024-11-02 11:09:20+08:00  (剩余 887.9G 12:32:31.027672)
 sub_url  https://www.qlgq.top/link/a25ff9971d28ffd9?clash=1
 time  2024-11-01 11:09:21.685514+08:00
 type  sspanel
@@ -37,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(tlwtcxezn41@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(otqtlxdml371@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
