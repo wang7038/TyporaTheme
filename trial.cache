@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc
 buy  pass
-email  znjnmvwf316@x866.cc
-last_checkin  2024-11-18 00:39:21.236586+08:00
+email  pwhofdh57@bccto.cc
+last_checkin  2024-11-18 20:14:44.606923+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.387G  1.723G  2024-11-18 20:53:28+08:00  (剩余 344M 1:22:34.848710)
-sub_url  https://network.ayucloud.nl/link/S6l3PFHuSMj3N5W7?clash=1
-time  2024-11-17 20:53:29.506587+08:00
+sub_info  0B  1.106G  2024-11-19 20:14:44+08:00  (剩余 1.106G 23:59:55.019324)
+sub_url  https://network.ayucloud.nl/link/06za7pNxXKG1Y7K8?clash=1
+time  2024-11-18 20:14:45.449144+08:00
 type  sspanel
 
 [qlgq.top]
@@ -20,7 +20,7 @@ email  xsdkois758@ipiso.tmmad.com
 last_checkin  2024-11-18 11:10:09.283946+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-11-19 11:10:09+08:00  (剩余 888G 15:39:19.889848)
+sub_info  0B  888G  2024-11-19 11:10:09+08:00  (剩余 888G 14:55:33.089906)
 sub_url  https://www.qlgq.top/link/5b184cdedf08da41?clash=1
 time  2024-11-18 11:10:11.094505+08:00
 type  sspanel
@@ -37,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wofoupw510@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(sprukwd480@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
