@@ -7,7 +7,7 @@ email  dvkhfbr742@965.tmmad.com
 last_checkin  2024-11-22 00:43:00.373720+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  65.06M  1.572G  2024-11-22 20:13:57+08:00  (剩余 1.509G 19:07:03.338784)
+sub_info  65.06M  1.572G  2024-11-22 20:13:57+08:00  (剩余 1.509G 18:37:29.480853)
 sub_url  https://network.ayucloud.nl/link/3brxn3Ne92FPJZAV?clash=1
 time  2024-11-21 20:13:59.162259+08:00
 type  sspanel
@@ -20,10 +20,11 @@ email  hhhlykrv611@222.wfytc.shop
 last_checkin  2024-11-22 00:43:00.374856+08:00
 name  墙了个墙
 node_n  30
-sub_info  4.366M  888G  2024-11-22 11:06:26+08:00  (剩余 888G 9:59:35.931302)
+sub_info  4.366M  888G  2024-11-22 11:06:26+08:00  (剩余 888G 9:30:04.267223)
 sub_url  https://www.qlgq.top/link/70e5961dc579ab1a?clash=1
 time  2024-11-21 11:06:27.438382+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [cyanmori.com]
 auto_invite  F
@@ -42,4 +43,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(qzykkmvvk148@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(zunoknfe78@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
