@@ -3,15 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc
 buy  pass
-email  arrlqwkwz296@guerrillamail.net
-last_checkin  2024-11-28 00:43:46.811466+08:00
+email  tnuqwbg507@guerrillamail.de
+last_checkin  2024-11-28 15:10:35.328454+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.144G  1.839G  2024-11-28 15:08:28+08:00  (剩余 711.3M 0:21:59.789915)
-sub_url  https://network.ayucloud.nl/link/YQYSqpnOryhfIRW2?clash=1
-time  2024-11-27 15:08:29.529029+08:00
+sub_info  0B  1.105G  2024-11-29 15:10:35+08:00  (剩余 1.105G 23:59:55.239230)
+sub_url  https://network.ayucloud.nl/link/Lq9hiOnWPvMJiw1s?clash=1
+time  2024-11-28 15:10:36.171148+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(trrvaoiq211@bareed.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 auto_invite  F
@@ -21,10 +20,11 @@ email  snyghrmu370@965.tmmad.com
 last_checkin  2024-11-28 00:43:46.812919+08:00
 name  墙了个墙
 node_n  30
-sub_info  3.178M  888.1G  2024-11-28 22:09:31+08:00  (剩余 888.1G 7:25:12.728846)
+sub_info  3.178M  888.1G  2024-11-28 22:09:31+08:00  (剩余 888.1G 7:01:13.694393)
 sub_url  https://www.qlgq.top/link/4190f18ee20f4511?clash=1
 time  2024-11-27 22:09:32.005026+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [cyanmori.com]
 auto_invite  F
@@ -38,9 +38,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bwvrnvk536@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(uqenqsc471@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
