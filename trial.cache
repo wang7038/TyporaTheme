@@ -4,10 +4,10 @@ auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc
 buy  pass
 email  tnuqwbg507@guerrillamail.de
-last_checkin  2024-11-28 15:10:35.328454+08:00
+last_checkin  2024-11-29 00:42:31.202594+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  45.37M  1.105G  2024-11-29 15:10:35+08:00  (剩余 1.061G 15:01:33.076808)
+sub_info  45.37M  1.825G  2024-11-29 15:10:35+08:00  (剩余 1.781G 14:27:58.460656)
 sub_url  https://network.ayucloud.nl/link/Lq9hiOnWPvMJiw1s?clash=1
 time  2024-11-28 15:10:36.171148+08:00
 type  sspanel
@@ -17,10 +17,10 @@ auto_invite  F
 banned_domains  femailtor.com  mydefipet.live  snapmail.cc  smartnator.com  miteon.com
 buy  pass
 email  kjgldrexq723@guerrillamail.net
-last_checkin  2024-11-28 21:43:57.193155+08:00
+last_checkin  2024-11-29 00:42:31.203884+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-11-29 21:43:57+08:00  (剩余 888G 21:34:54.472249)
+sub_info  0B  888.1G  2024-11-29 21:43:57+08:00  (剩余 888.1G 21:01:21.667997)
 sub_url  https://www.qlgq.top/link/c04a83a6f28abd98?clash=1
 time  2024-11-28 21:43:58.100829+08:00
 type  sspanel
@@ -37,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(jixbqfzkl41@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(rygyvsim150@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
