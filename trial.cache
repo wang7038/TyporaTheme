@@ -11,6 +11,9 @@ sub_info  0B  1.039G  2024-11-30 05:07:14+08:00  (剩余 1.039G 21:34:20.157293)
 sub_url  https://network.ayucloud.nl/link/uQHdEC9mBjBhcVei?clash=1
 time  2024-11-29 05:07:15.844239+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(ubixflpr548@tmail.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 auto_invite  F
@@ -20,7 +23,7 @@ email  kjgldrexq723@guerrillamail.net
 last_checkin  2024-11-29 00:42:31.203884+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888.1G  2024-11-29 21:43:57+08:00  (剩余 888.1G 14:11:03.841482)
+sub_info  0B  888.1G  2024-11-29 21:43:57+08:00  (剩余 888.1G 13:05:41.815844)
 sub_url  https://www.qlgq.top/link/c04a83a6f28abd98?clash=1
 time  2024-11-28 21:43:58.100829+08:00
 type  sspanel
@@ -42,4 +45,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sxtwwghf594@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(rejodvcr837@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
