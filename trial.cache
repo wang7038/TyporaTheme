@@ -3,15 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc  lista.cc  maxamba.com
 buy  pass
-email  nftubol519@jkd.tmmad.com
-last_checkin  2024-12-06 00:44:13.606949+08:00
+email  ogcavrfce943@x866.cc
+last_checkin  2024-12-06 04:37:45.098830+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.617G  2024-12-06 04:08:55+08:00  (剩余 1.617G -1 day, 23:59:51.876388)
-sub_url  https://network.ayucloud.nl/link/dKWsDP9cVeZkf8Pt?clash=1
-time  2024-12-05 04:08:56.426737+08:00
+sub_info  0B  1.151G  2024-12-07 04:37:44+08:00  (剩余 1.151G 23:59:54.335117)
+sub_url  https://network.ayucloud.nl/link/aoisSTfV5PxSoUZ8?clash=1
+time  2024-12-06 04:37:46.059453+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(uzmodek548@moakt.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 auto_invite  F
@@ -21,7 +20,7 @@ email  zixmlsx952@tmpeml.com
 last_checkin  2024-12-06 00:44:13.608206+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888.1G  2024-12-06 20:59:59+08:00  (剩余 888.1G 16:51:04.018833)
+sub_info  0B  888.1G  2024-12-06 20:59:59+08:00  (剩余 888.1G 16:22:26.114974)
 sub_url  https://www.qlgq.top/link/9e84f24390ae2f1a?clash=1
 time  2024-12-05 21:00:01.012750+08:00
 type  sspanel
@@ -38,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(vbqwlyedc995@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(vuynvdgr278@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
