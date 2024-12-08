@@ -7,7 +7,7 @@ email  eojxrxsa381@lplso.tmmad.com
 last_checkin  2024-12-08 14:11:32.045078+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  109.8M  1.245G  2024-12-09 14:11:31+08:00  (剩余 1.138G 17:15:36.084364)
+sub_info  109.8M  1.245G  2024-12-09 14:11:31+08:00  (剩余 1.138G 16:54:44.997184)
 sub_url  https://network.ayucloud.nl/link/AfbbOebCe19Nru0X?clash=1
 time  2024-12-08 14:11:32.963043+08:00
 type  sspanel
@@ -16,15 +16,14 @@ type  sspanel
 auto_invite  F
 banned_domains  femailtor.com  mydefipet.live  snapmail.cc  smartnator.com  miteon.com  lista.cc
 buy  pass
-email  rykzvztlq637@tmpeml.com
-last_checkin  2024-12-08 00:41:02.543992+08:00
+email  azbfstsbu807@333.wkhxn.shop
+last_checkin  2024-12-08 21:16:54.959327+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-12-08 20:55:29+08:00  (剩余 888G -1 day, 23:58:25.789164)
-sub_url  https://www.qlgq.top/link/30d84ed733fa4066?clash=1
-time  2024-12-07 20:55:30.364753+08:00
+sub_info  0B  888G  2024-12-09 21:16:54+08:00  (剩余 888G 23:59:57.010207)
+sub_url  https://www.qlgq.top/link/bcb215492a05842b?clash=1
+time  2024-12-08 21:16:55.603860+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(plwkxgdv123@lista.cc)
 
 [cyanmori.com]
 auto_invite  F
@@ -38,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(xysczkpl565@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(kxpchtzhz193@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
