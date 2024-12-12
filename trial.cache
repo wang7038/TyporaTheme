@@ -4,10 +4,10 @@ auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc  lista.cc  maxamba.com
 buy  pass
 email  hajrdgu728@rgzx.tmmad.com
-last_checkin  2024-12-12 12:10:07.839797+08:00
+last_checkin  2024-12-13 00:44:25.427431+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  82.38M  1.225G  2024-12-13 12:10:07+08:00  (剩余 1.144G 12:00:36.666791)
+sub_info  82.38M  1.827G  2024-12-13 12:10:07+08:00  (剩余 1.747G 11:25:36.880677)
 sub_url  https://network.ayucloud.nl/link/l6pIeoI6XAEP4Pb5?clash=1
 time  2024-12-12 12:10:08.623054+08:00
 type  sspanel
@@ -17,10 +17,10 @@ auto_invite  F
 banned_domains  femailtor.com  mydefipet.live  snapmail.cc  smartnator.com  miteon.com  lista.cc  psnator.com
 buy  pass
 email  upisrhxkn615@wfes.site
-last_checkin  2024-12-12 21:27:44.728583+08:00
+last_checkin  2024-12-13 00:44:25.428625+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-12-13 21:27:44+08:00  (剩余 888G 21:18:15.383398)
+sub_info  0B  888G  2024-12-13 21:27:44+08:00  (剩余 888G 20:43:15.984807)
 sub_url  https://www.qlgq.top/link/fb190bd7c239d2bb?clash=1
 time  2024-12-12 21:27:45.599299+08:00
 type  sspanel
@@ -37,9 +37,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/PIwmLtWYzLp6I6TU?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lrdfuksct28@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(iasbozzf157@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
