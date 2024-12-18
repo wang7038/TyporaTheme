@@ -7,10 +7,11 @@ email  lbvzbjf181@333.cvrmpr.shop
 last_checkin  2024-12-18 11:06:38.228595+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  75.81M  1.143G  2024-12-19 11:06:37+08:00  (剩余 1.069G 11:29:43.457365)
+sub_info  75.81M  1.143G  2024-12-19 11:06:37+08:00  (剩余 1.069G 10:57:26.755552)
 sub_url  https://network.ayucloud.nl/link/cjyLCFiCMAf8TbPE?clash=1
 time  2024-12-18 11:06:39.045463+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 auto_invite  F
@@ -25,7 +26,7 @@ sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +45,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(okkfawe78@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(fmlfpza129@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
