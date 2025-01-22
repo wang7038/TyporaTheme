@@ -7,10 +7,11 @@ email  vluklpdfx289@grr.la
 last_checkin  2025-01-22 01:01:11.332702+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  168.5M  1.188G  2025-01-23 01:01:11+08:00  (剩余 1.024G 17:30:30.910457)
+sub_info  168.6M  1.188G  2025-01-23 01:01:11+08:00  (剩余 1.024G 16:25:59.048117)
 sub_url  https://network.ayucloud.nl/link/GvIEehVeD3pgbsgu?clash=1
 time  2025-01-22 01:01:12.172165+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 auto_invite  F
@@ -24,8 +25,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f63f5c6cf70>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f63f5dd2ce0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f32d11f8e50>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f32ced284f0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +45,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sukqiqr119@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(ezrcezu851@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
