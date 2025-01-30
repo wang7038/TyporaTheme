@@ -7,10 +7,11 @@ email  cbondjj357@guerrillamail.com
 last_checkin  2025-01-30 16:39:06.661145+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  53.39M  1.13G  2025-01-31 16:39:06+08:00  (剩余 1.078G 21:38:15.842875)
+sub_info  121.9M  1.13G  2025-01-31 16:39:06+08:00  (剩余 1.011G 21:08:27.396027)
 sub_url  https://network.ayucloud.nl/link/Wv3zdI4F6l5AcHbw?clash=1
 time  2025-01-30 16:39:07.456875+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 auto_invite  F
@@ -24,8 +25,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd537d68550>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd537ed6650>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa915d64eb0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa90ff47f40>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +45,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wkwytxdja146@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(rmojnaz597@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
