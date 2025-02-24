@@ -4,10 +4,10 @@ auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc  lista.cc  maxamba.com  mydefipet.live
 buy  pass
 email  hndcqpz179@teihu.com
-last_checkin  2025-02-24 21:19:26.456725+08:00
+last_checkin  2025-02-25 00:42:28.652080+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  193.1M  1.108G  2025-02-25 21:19:26+08:00  (剩余 941.9M 21:09:58.512338)
+sub_info  195.8M  1.732G  2025-02-25 21:19:26+08:00  (剩余 1.541G 20:36:49.757451)
 sub_url  https://network.ayucloud.nl/link/du5AyoAfLixE3Ey4?clash=1
 time  2025-02-24 21:19:27.340116+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f03d8386a10>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f03d830f760>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f478acacd60>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f478acbb550>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hlhnhvvt709@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(yykadamo427@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
