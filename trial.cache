@@ -7,7 +7,7 @@ email  epojggsji396@guerrillamail.biz
 last_checkin  2025-02-26 00:42:12.487197+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  183.4M  1.926G  2025-02-26 21:18:27+08:00  (剩余 1.747G 10:16:40.119225)
+sub_info  183.4M  1.926G  2025-02-26 21:18:27+08:00  (剩余 1.747G 9:36:48.846508)
 sub_url  https://network.ayucloud.nl/link/FBxQ69G1C21fQjcB?clash=1
 time  2025-02-25 21:18:28.679600+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7faad7ff1c90>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7faad7f7a350>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fad5cd90040>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fad5cd40880>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zpnupbg626@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(pxhlmtw128@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
