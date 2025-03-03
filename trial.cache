@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc  lista.cc  maxamba.com  mydefipet.live  x866.cc  bccto.cc  rgzx.tmmad.com  ipiso.tmmad.com  jkd.tmmad.com  edu.chqu.school
 buy  pass
-email  qphkojtx533@lpl1so.tmmad.com
-last_checkin  2025-03-03 00:38:06.231009+08:00
+email  ergvnrch450@top.co.mom
+last_checkin  2025-03-03 08:38:47.393759+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  585.9M  1.8G  2025-03-03 22:36:15+08:00  (剩余 1.228G 15:03:25.712414)
-sub_url  https://network.ayucloud.nl/link/4M5rvHGHcN97Ftb7?clash=1
-time  2025-03-02 22:36:16.691270+08:00
+sub_info  0B  1.13G  2025-03-04 08:38:47+08:00  (剩余 1.13G 23:59:55.995665)
+sub_url  https://network.ayucloud.nl/link/mpAWPUYA4AA2ELXK?clash=1
+time  2025-03-03 08:38:48.270840+08:00
 type  sspanel
 
 [qlgq.top]
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f349c755c60>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f349c6df550>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f06b99f0d60>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f06b997a860>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(aqjgaoemp507@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(sbcsvsiw364@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
