@@ -7,7 +7,7 @@ email  amvmaer49@guerrillamail.de
 last_checkin  2025-03-07 00:42:14.430346+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.033G  1.943G  2025-03-07 21:38:39+08:00  (剩余 931.9M 6:07:47.307441)
+sub_info  1.054G  1.943G  2025-03-07 21:38:39+08:00  (剩余 910.9M 5:28:11.386591)
 sub_url  https://network.ayucloud.nl/link/flvj2ycAe2blbBk6?clash=1
 time  2025-03-06 21:38:41.018765+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3d68761de0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3d686e4580>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa177d55cc0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa178c1a410>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(qufotpjp103@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (522 <none> '')
+更新订阅链接/续费续签失败  注册失败(vlzvbggp715@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (522 <none> '')
