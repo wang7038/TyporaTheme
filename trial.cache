@@ -7,7 +7,7 @@ email  tnyptycbc881@sharklasers.com
 last_checkin  2025-03-13 00:43:21.170392+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  696.3M  1.622G  2025-03-13 20:58:10+08:00  (剩余 964.7M 4:16:55.845281)
+sub_info  736.1M  1.622G  2025-03-13 20:58:10+08:00  (剩余 924.9M 3:50:02.807876)
 sub_url  https://network.ayucloud.nl/link/D2cevIQDJ9dLwaOk?clash=1
 time  2025-03-12 20:58:12.225114+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fec98458280>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fec9845ab60>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7472255cf0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f74721ddcc0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(osykiupxz736@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiMWIyNDI0MmQtNDk4Ni00NDFiLTljNWEtZGEzYjg0MzNmODBmIiwicGFnZV90aW1lIjoxNzQxODU1MjY4LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiI1Mi4yMzQuMzMuMjM1In0K";</script>\n<script src="/bKULMRFUt.js"></script>\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(ktsjbrnwu6@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiOTkzZTVkNjUtZWQwOC00ZjdlLTgxOGQtMzU3ODM1YTQ4M2MyIiwicGFnZV90aW1lIjoxNzQxODU2ODgzLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIxNzIuMTgzLjI0Ni4xOTMifQo=";</script>\n<script src="/bxVqbcRwx.js"></script>\n</body>\n</html>\n')
