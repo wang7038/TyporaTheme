@@ -7,7 +7,7 @@ email  wgvfnigt576@top.co.mom
 last_checkin  2025-03-18 00:43:14.962707+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  135M  1.718G  2025-03-18 20:59:02+08:00  (剩余 1.586G 19:23:18.201886)
+sub_info  310.9M  1.718G  2025-03-18 20:59:02+08:00  (剩余 1.414G 18:48:10.732475)
 sub_url  https://network.ayucloud.nl/link/y9ACNeFtPF5tOMlf?clash=1
 time  2025-03-17 20:59:04.141400+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe8734f58a0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe87347c970>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0d31bf18a0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0d31c21300>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -39,9 +39,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
-更新旧订阅失败  (https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1): 404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(eimkozez394@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiZThiNGYwYjYtY2MzNy00Yzg2LTg1YjctZDUxMWZhZDYwYmU2IiwicGFnZV90aW1lIjoxNzQyMjMyOTM3LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIxNzIuMTgzLjExMS41NCJ9Cg==";</script>\n<script src="/bxHtQjDrP.js"></script>\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(ljzjlboh373@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiNWMzYmZiY2UtMWMzMC00ZTRiLWE2YmItZDQwYWJlN2JlMGU5IiwicGFnZV90aW1lIjoxNzQyMjM1MDQ2LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiI3NC4yNDkuMTUuMTkzIn0K";</script>\n<script src="/bGgTIhtiL.js"></script>\n</body>\n</html>\n')
