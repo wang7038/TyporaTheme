@@ -7,7 +7,7 @@ email  qiufzpxem7@grr.la
 last_checkin  2025-03-19 00:43:04.791847+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.258G  1.817G  2025-03-19 23:08:46+08:00  (剩余 572.7M 4:59:56.994538)
+sub_info  1.261G  1.817G  2025-03-19 23:08:46+08:00  (剩余 569.7M 4:28:36.698840)
 sub_url  https://network.ayucloud.nl/link/UvZG7x7mBqYIC9hv?clash=1
 time  2025-03-18 23:08:48.529030+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb0d9835a20>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb0d9837a90>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff1ecf11960>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff1ecf0e980>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(xzxrrxk501@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiNTQ2OWM1ZTktNTk3Ny00NWVmLTlmYjMtNGZkNGRlYmQ2ZGE2IiwicGFnZV90aW1lIjoxNzQyMzc4OTIyLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC4zOS42My44MSJ9Cg==";</script>\n<script src="/bzpQJOJTo.js"></script>\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(ekrttbnjf722@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiY2RmOGNhYjEtNDYzMi00MmUyLWJkZDktYzJhYmE3YjQ3OWIwIiwicGFnZV90aW1lIjoxNzQyMzgwODAyLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC41NS44Ni4yMDcifQo=";</script>\n<script src="/bdEGUVMwf.js"></script>\n</body>\n</html>\n')
