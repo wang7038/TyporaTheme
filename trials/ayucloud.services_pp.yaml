@@ -1663,6 +1663,8 @@ rules:
 - DOMAIN-SUFFIX,zhipin.com,DIRECT
 - DOMAIN-SUFFIX,zhongsou.com,DIRECT
 - DOMAIN-SUFFIX,zhuihd.com,DIRECT
+- DOMAIN-SUFFIX,cmbchina.com,DIRECT
+- DOMAIN-SUFFIX,95516.com,DIRECT
 - DOMAIN-SUFFIX,inter.ptqy.gitv.tv,DIRECT
 - IP-CIDR,23.40.241.251/32,DIRECT,no-resolve
 - IP-CIDR,23.40.242.10/32,DIRECT,no-resolve
