@@ -7,13 +7,13 @@ email  jwpvkkia752@guerrillamail.net
 last_checkin  2025-04-02 11:10:39.558951+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-04-02 20:15:34+08:00  (剩余 0B -2 days, 2:38:23.972110)
+sub_info  0B  0B  2025-04-02 20:15:34+08:00  (剩余 0B -2 days, 2:06:24.128918)
 sub_url  https://network.ayucloud.nl/link/U48kSYy4EaCVCWTI?clash=1
 time  2025-04-01 20:15:35.968854+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(wqlqykoq270@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(tqaatyo883@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 auto_invite  F
@@ -27,8 +27,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7d1b25dc30>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7d1b2fb0a0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f18246e9720>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1824786ce0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -42,9 +42,9 @@ sub_url  https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1
 time  2024-09-19 14:11:00.825303+08:00
 type  sspanel
 尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (522 <none> '')
-更新旧订阅失败  (https://cyanmori.com/link/PIwmLtWYzLp6I6TU?clash=1): 522 <none> ''
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hraopfv213@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiNTFiNjE1NmQtY2YxYS00MzM0LTgwMTItMjBmZWEzMmRlOGQ0IiwicGFnZV90aW1lIjoxNzQzNzU5MzcxLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiI1Mi4xOTAuMTM4LjE5NCJ9Cg==";</script>\n<script src="/bmPaaWviT.js"></script>\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(ceusuida21@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_r/OJofhm6bLtE+KETFRz1Jq9nvQWV/LWNCpW5+nDIK+68+/8AW6JhfM3qbtKWr6jPhRLA0vj/TSHw5J3ELDmig==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiOTBiOTgyNzEtMWZlMi00OGZkLTg2NGItNTdlMTg5YmRiYWRjIiwicGFnZV90aW1lIjoxNzQzNzYxMjkzLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvcmVnaXN0ZXIiLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC4xNjEuNzcuMjQwIn0K";</script>\n<script src="/bwZhqgmBV.js"></script>\n</body>\n</html>\n')
