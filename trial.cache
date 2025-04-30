@@ -3,16 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  femailtor.com  ktse.haihantnc.xyz  psnator.com  miteon.com  nespressopixie.com  smartnator.com  mynanaimohomes.com  snapmail.cc  xxxhi.cc  lista.cc  maxamba.com  mydefipet.live  x866.cc  bccto.cc  rgzx.tmmad.com  ipiso.tmmad.com  jkd.tmmad.com  edu.chqu.school
 buy  pass
-email  rcnrhbhox199@linshiyou.com
-last_checkin  2025-04-30 01:08:04.677842+08:00
+email  cwasxje652@guerrillamail.com
+last_checkin  2025-04-30 21:43:09.298705+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.675G  1.064G  2025-05-01 01:08:04+08:00  (剩余 -1.611G 3:40:32.219206)
-sub_url  https://network.ayucloud.nl/link/KHsXlfcThDNPBND9?clash=1
-time  2025-04-30 01:08:05.666060+08:00
+sub_info  0B  1.067G  2025-05-01 21:43:08+08:00  (剩余 1.067G 23:59:01.375699)
+sub_url  https://network.ayucloud.nl/link/WKW0CNWW5tmBIEeP?clash=1
+time  2025-04-30 21:43:10.276809+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(gpgedtv288@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 auto_invite  F
@@ -26,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb12e624e80>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb12e627b80>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe594d28790>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe594c1e800>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -46,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ohvzwfcc477@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb12e625000>: Failed to resolve 'vipxgyun.com' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kzzkgkwaw121@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe594d28a60>: Failed to resolve 'vipxgyun.com' ([Errno -2] Name or service not known)"))
