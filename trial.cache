@@ -7,12 +7,12 @@ email  kazhfhzwn920@guerrillamail.net
 last_checkin  2025-05-11 07:07:06.185540+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  212M  2025-05-11 04:09:26+08:00  (剩余 212M -1 day, 19:25:26.012166)
+sub_info  0B  212M  2025-05-11 04:09:26+08:00  (剩余 212M -1 day, 17:38:45.869546)
 sub_url  https://network.ayucloud.nl/link/tiaqYtqlg0d0lG9c?clash=1
 time  2025-05-10 04:09:27.615474+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(kwwwnqk661@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(knriihxgw450@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 auto_invite  F
@@ -26,8 +26,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb51fc6c4f0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb51fc6d960>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f01bc524d30>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f01bc524cd0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -46,4 +46,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sjyxxtkie861@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb51fc5cd60>: Failed to resolve 'vipxgyun.com' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(oonicws99@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f01bc524eb0>: Failed to resolve 'vipxgyun.com' ([Errno -2] Name or service not known)"))
