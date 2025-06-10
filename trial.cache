@@ -7,12 +7,12 @@ email  ktzfqbh848@sharklasers.com
 last_checkin  2025-06-10 14:13:54.787009+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.281G  1.251G  2025-06-11 14:13:54+08:00  (剩余 -30.36M 7:04:04.260153)
+sub_info  1.281G  1.251G  2025-06-11 14:13:54+08:00  (剩余 -30.36M 6:36:44.851955)
 sub_url  https://network.ayucloud.nl/link/YkBWdbqvp9s2B1mS?clash=1
 time  2025-06-10 14:13:55.558124+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(xghzpwpt336@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f36844540a0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(xrwhgteik659@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6155b5edd0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 auto_invite  F
@@ -26,8 +26,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f36844570a0>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3684457e80>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6155b5ea10>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6155becf40>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -46,4 +46,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ijqzyiw104@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
+更新订阅链接/续费续签失败  注册失败(waubwtnio493@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
