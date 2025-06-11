@@ -7,7 +7,7 @@ email  rkxzsrf439@sharklasers.com
 last_checkin  2025-06-11 19:08:28.667979+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  57.06M  1.18G  2025-06-12 19:08:28+08:00  (剩余 1.124G 21:20:54.687669)
+sub_info  57.23M  1.18G  2025-06-12 19:08:28+08:00  (剩余 1.124G 21:00:52.412336)
 sub_url  https://network.ayucloud.nl/link/QBaq0hOdEt2hwykJ?clash=1
 time  2025-06-11 19:08:29.625825+08:00
 type  sspanel
@@ -24,8 +24,8 @@ sub_info  0B  888G  2024-12-16 20:55:59+08:00  (剩余 888G 21:22:40.242235)
 sub_url  https://qlgq.top/link/5d245b1315c685fb?clash=1
 time  2024-12-15 20:56:00.805220+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd2c679c760>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/5d245b1315c685fb?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd2c68cff70>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4eaf7ef580>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4eaf87bc10>: Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -44,4 +44,4 @@ type  sspanel
 [vipxgyun.com]
 name  西瓜皮是真的皮
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(omwvmycr338@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
+更新订阅链接/续费续签失败  注册失败(crcolnqgu584@gmail.com): HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
