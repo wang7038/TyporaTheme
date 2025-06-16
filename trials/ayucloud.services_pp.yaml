@@ -17,9 +17,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/saishun/TyporaTheme/main/trials_providers/All.yaml
+    url: https://raw.kgithub.com/saishun/TyporaTheme/main/trials_providers/ayucloud.services/All.yaml
     interval: 180
-    path: trials_providers/All.yaml
+    path: trials_providers/ayucloud.services/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
