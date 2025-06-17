@@ -2,16 +2,14 @@
 auth_path  user
 auto_invite  F
 buy  pass
-email  rzpqlkss167@guerrillamail.de
-last_checkin  2025-06-17 07:08:20.274209+08:00
+email  aaxrjbdpg664@wwobs.com
+last_checkin  2025-06-18 05:08:22.286906+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.653G  1.06G  2025-06-18 07:08:19+08:00  (剩余 -607.3M 2:27:12.771020)
-sub_url  https://ayucloud.services/link/xbVMPJxirms6Mw7g?clash=1
-time  2025-06-17 07:08:20.914978+08:00
+sub_info  0B  1.173G  2025-06-19 05:08:21+08:00  (剩余 1.173G 23:59:54.427861)
+sub_url  https://network.ayucloud.nl/link/7zWidu7W4b6whWi4?clash=1
+time  2025-06-18 05:08:23.190741+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(karjyypeu704@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff3593c2fb0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
