@@ -1,16 +1,17 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
+banned_domains  tmpnator.live
 buy  pass
 email  mijncfk516@bookmorpho.cfd
 last_checkin  2025-06-19 06:10:17.026803+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.192G  1.129G  2025-06-20 06:10:16+08:00  (剩余 -64.97M 17:52:47.163597)
+sub_info  1.192G  1.129G  2025-06-20 06:10:16+08:00  (剩余 -64.97M 17:21:22.253225)
 sub_url  https://network.ayucloud.nl/link/c7hXrCtdrNBmEZ5O?clash=1
 time  2025-06-19 06:10:17.829290+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bmcsrcxz943@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(zjzkwyrqy91@tmpnator.live)
 
 [qlgq.top]
 
