@@ -7,12 +7,12 @@ email  mijncfk516@bookmorpho.cfd
 last_checkin  2025-06-21 06:07:45.829790+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  570M  2025-06-20 06:10:16+08:00  (剩余 570M -2 days, 21:28:47.644541)
+sub_info  0B  570M  2025-06-20 06:10:16+08:00  (剩余 570M -2 days, 18:40:00.292062)
 sub_url  https://ayucloud.services/link/c7hXrCtdrNBmEZ5O?clash=1
 time  2025-06-19 06:10:17.829290+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (504 Gateway Timeout '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>504 Gateway Timeout</title>\n\t<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n\t<style>\n\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n\n<h1>504 Gateway Timeout</h1>\n<p>The site is unavailable now, cause: Read origin site timeout.</p>\n\n<address>Connection: 135.119.181.86 (Client) -&gt; (Server)</address>\n<address>Request ID: 175047284995791000001.</address>\n\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(pajrtbdo407@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
