@@ -7,11 +7,11 @@ email  ezyvjdc565@questtechsystems.com
 last_checkin  2025-06-22 02:10:16.466045+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  196M  1.173G  2025-06-23 02:10:16+08:00  (剩余 1005M 1:26:41.929858)
+sub_info  273.3M  1.173G  2025-06-23 02:10:16+08:00  (剩余 927.7M 1:01:39.170216)
 sub_url  https://ayucloud.services/link/lFJOdyDKGn55Q9JG?clash=1
 time  2025-06-22 02:10:17.413880+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f187a0f0340>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
