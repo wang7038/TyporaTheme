@@ -12,7 +12,7 @@ sub_url  https://ayucloud.services/link/lFJOdyDKGn55Q9JG?clash=1
 time  2025-06-22 02:10:17.413880+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(onacbgdtv318@moakt.ws): 邮箱后缀已被拉黑
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/lFJOdyDKGn55Q9JG?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb83b999870>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
