@@ -1,18 +1,17 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc
+banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc  femailtor.com
 buy  pass
 email  buuipguu918@sharklasers.com
-last_checkin  2025-06-24 15:40:39.893347+08:00
+last_checkin  2025-06-25 07:36:49.300983+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.716G  1.185G  2025-06-25 15:40:39+08:00  (剩余 -543.9M 8:30:46.058107)
+sub_info  1.716G  1.804G  2025-06-25 15:40:39+08:00  (剩余 90.14M 8:02:32.448269)
 sub_url  https://network.ayucloud.nl/link/cFBZaH4dUBxy1vaP?clash=1
 time  2025-06-24 15:40:40.689653+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(cwyreuow82@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb9dbb324a0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(itaywql141@femailtor.com)
 
 [qlgq.top]
 
