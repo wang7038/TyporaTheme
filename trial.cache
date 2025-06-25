@@ -7,11 +7,12 @@ email  qrhffnnd178@guerrillamail.de
 last_checkin  2025-06-25 23:09:45.840410+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  4.624M  1.144G  2025-06-26 23:09:45+08:00  (剩余 1.139G 22:00:36.098690)
+sub_info  5.541G  1.144G  2025-06-26 23:09:45+08:00  (剩余 -4.398G 21:27:40.500179)
 sub_url  https://network.ayucloud.nl/link/bMtMCSQ9luIdiTM4?clash=1
 time  2025-06-25 23:09:46.672026+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(sagbvff225@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f24f5e2ff70>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
