@@ -7,12 +7,12 @@ email  pnhcsegc888@pastryofistanbul.com
 last_checkin  2025-06-27 03:35:05.872080+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.791G  1.113G  2025-06-28 03:35:05+08:00  (剩余 -694.3M 2:25:45.698340)
+sub_info  1.791G  1.113G  2025-06-28 03:35:05+08:00  (剩余 -694.3M 1:54:34.658672)
 sub_url  https://network.ayucloud.nl/link/dTTTfMHTcPafmscl?clash=1
 time  2025-06-27 03:35:06.640707+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(yflxodcr658@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc2b20f8d00>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(bactgws563@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff4d591aef0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
