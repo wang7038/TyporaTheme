@@ -7,11 +7,12 @@ email  pnhcsegc888@pastryofistanbul.com
 last_checkin  2025-06-27 03:35:05.872080+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.791G  1.113G  2025-06-28 03:35:05+08:00  (剩余 -694.3M 8:27:35.344568)
+sub_info  1.791G  1.113G  2025-06-28 03:35:05+08:00  (剩余 -694.3M 8:01:07.950350)
 sub_url  https://network.ayucloud.nl/link/dTTTfMHTcPafmscl?clash=1
 time  2025-06-27 03:35:06.640707+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wxisjgtmm153@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(dsfvybq234@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
