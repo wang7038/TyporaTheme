@@ -7,11 +7,11 @@ email  glgkykcwt776@end.tw
 last_checkin  2025-07-07 11:48:47.593228+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  266.5M  1.033G  2025-07-08 11:48:47+08:00  (剩余 791.5M 7:38:56.966734)
+sub_info  267.1M  1.033G  2025-07-08 11:48:47+08:00  (剩余 790.9M 7:08:37.260689)
 sub_url  https://network.ayucloud.nl/link/PnFoHuwyRAkwWAXR?clash=1
 time  2025-07-07 11:48:48.389584+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
