@@ -7,12 +7,11 @@ email  xhpfxyvkc486@guerrillamail.net
 last_checkin  2025-07-13 17:11:52.387503+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  10.41M  1.107G  2025-07-14 17:11:51+08:00  (剩余 1.097G 16:28:19.534523)
+sub_info  76.17M  1.107G  2025-07-14 17:11:51+08:00  (剩余 1.033G 15:34:21.745690)
 sub_url  https://network.ayucloud.nl/link/ijUtZNXElxCU8aG6?clash=1
 time  2025-07-13 17:11:53.423724+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6c2208e770>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
