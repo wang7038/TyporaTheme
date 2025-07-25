@@ -7,11 +7,11 @@ email  fzcfgpf878@guerrillamail.net
 last_checkin  2025-07-25 21:50:49.253923+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  183.8M  1.143G  2025-07-26 21:50:48+08:00  (剩余 986.2M 18:41:56.550026)
+sub_info  183.8M  1.143G  2025-07-26 21:50:48+08:00  (剩余 986.2M 18:16:22.311816)
 sub_url  https://network.ayucloud.nl/link/ton2uypgFG7Ixqk8?clash=1
 time  2025-07-25 21:50:50.213160+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
