@@ -7,11 +7,12 @@ email  lxpukjrbr902@lyx13.xyz
 last_checkin  2025-07-29 23:12:19.664141+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.101G  1.001G  2025-07-30 23:12:19+08:00  (剩余 -102.3M 23:00:55.938988)
+sub_info  1.101G  1.001G  2025-07-30 23:12:19+08:00  (剩余 -102.3M 22:20:54.911781)
 sub_url  https://network.ayucloud.nl/link/entva5P72JkkLIvW?clash=1
 time  2025-07-29 23:12:20.650299+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iqseexp740@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(yjrqgel437@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdedb68a710>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
