@@ -7,12 +7,12 @@ email  xrkqsaz945@guerrillamail.org
 last_checkin  2025-07-30 21:54:17.521678+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.301G  1.119G  2025-07-31 21:54:17+08:00  (剩余 -186.2M 19:39:22.356346)
+sub_info  1.301G  1.119G  2025-07-31 21:54:17+08:00  (剩余 -186.2M 19:01:07.438414)
 sub_url  https://network.ayucloud.nl/link/LpjjBdtO778xqTVW?clash=1
 time  2025-07-30 21:54:18.531714+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(geyyjoszt519@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9937d969b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(rixgxlr449@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1c85c8fb50>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
