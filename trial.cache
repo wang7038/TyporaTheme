@@ -7,11 +7,12 @@ email  ukouaqdr396@mail.wvwvw.tech
 last_checkin  2025-08-05 00:51:27.264839+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.651G  1.835G  2025-08-05 23:10:38+08:00  (剩余 -835.8M 20:16:16.055439)
+sub_info  2.651G  1.835G  2025-08-05 23:10:38+08:00  (剩余 -835.8M 19:58:55.036918)
 sub_url  https://network.ayucloud.nl/link/lKvEk7BQjzlPXJWF?clash=1
 time  2025-08-04 23:10:40.106087+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yvsxxqhlo338@moakt.co): 邮箱后缀已被拉黑
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(jyynpip748@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
