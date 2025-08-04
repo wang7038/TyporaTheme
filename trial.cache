@@ -7,11 +7,11 @@ email  ukouaqdr396@mail.wvwvw.tech
 last_checkin  2025-08-05 00:51:27.264839+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.651G  1.835G  2025-08-05 23:10:38+08:00  (剩余 -835.8M 19:32:55.561216)
+sub_info  2.651G  1.835G  2025-08-05 23:10:38+08:00  (剩余 -835.8M 18:58:35.141466)
 sub_url  https://network.ayucloud.nl/link/lKvEk7BQjzlPXJWF?clash=1
 time  2025-08-04 23:10:40.106087+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(phibkqwo577@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='rootsh.com', port=443): Read timed out. (read timeout=30)
 
 [qlgq.top]
 
