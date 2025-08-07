@@ -1,23 +1,23 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc  femailtor.com  mydefipet.live  psnator.com  snapmail.cc  ipiso.tmmad.com  x866.cc  lyx13.xyz  vapeuccino.com  bccto.cc  huiplay.com  adtgng.tmmad.com  jkb.tmmad.com
+banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc  femailtor.com  mydefipet.live  psnator.com  snapmail.cc  ipiso.tmmad.com  x866.cc  lyx13.xyz  vapeuccino.com  bccto.cc  huiplay.com  adtgng.tmmad.com  jkb.tmmad.com  lplso.tmmad.com
 buy  pass
 email  biwtpfnj23@grr.la
 last_checkin  2025-08-08 04:10:37.121817+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.856G  1.094G  2025-08-09 04:10:36+08:00  (剩余 -780.8M 22:32:09.460904)
+sub_info  1.856G  1.094G  2025-08-09 04:10:36+08:00  (剩余 -780.8M 22:00:41.290829)
 sub_url  https://network.ayucloud.nl/link/5BOpBejXVi3vn3Uh?clash=1
 time  2025-08-08 04:10:38.040508+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(tgdxeey999@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(dqmzwift531@lplso.tmmad.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pjlriqpcx252@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(ocuijtyrc534@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [cyanmori.com]
 
