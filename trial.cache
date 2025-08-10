@@ -7,17 +7,17 @@ email  xhpbhiqm143@oakon.com
 last_checkin  2025-08-10 18:08:55.915409+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.915G  1.044G  2025-08-11 18:08:55+08:00  (剩余 -891.9M 23:27:02.025487)
+sub_info  1.915G  1.044G  2025-08-11 18:08:55+08:00  (剩余 -891.9M 23:02:12.686677)
 sub_url  https://network.ayucloud.nl/link/clVfaUJSYFu5hC8H?clash=1
 time  2025-08-10 18:08:56.839801+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mssmgisn459@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(tymyvnd417@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(baeabcfhe992@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(xkpkenwbz482@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [cyanmori.com]
 
