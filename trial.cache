@@ -7,17 +7,17 @@ email  bodjtuvqh80@linshiyou.com
 last_checkin  2025-08-20 13:09:07.572739+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.029G  1.104G  2025-08-21 13:09:07+08:00  (剩余 -946.5M 23:29:44.654740)
+sub_info  2.029G  1.104G  2025-08-21 13:09:07+08:00  (剩余 -946.5M 22:55:53.621902)
 sub_url  https://network.ayucloud.nl/link/Y2Ze14Wj6RWWmTcL?clash=1
 time  2025-08-20 13:09:08.537560+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zycnothp409@disbox.org): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  注册失败(zttpvnfji243@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(oxkskqru192@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(mtqkedtvj918@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [cyanmori.com]
 
