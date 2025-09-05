@@ -7,17 +7,17 @@ email  qbwfpjx155@guerrillamail.net
 last_checkin  2025-09-06 01:00:45.236622+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.862G  1.769G  2025-09-06 15:34:24+08:00  (剩余 -95.99M 8:59:43.509470)
+sub_info  1.862G  1.769G  2025-09-06 15:34:24+08:00  (剩余 -95.99M 8:33:04.386635)
 sub_url  https://network.ayucloud.nl/link/bpdBb9WjJo785iNb?clash=1
 time  2025-09-05 15:34:27.036185+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(annmpgk885@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(azlprvqz517@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(lygaqxedd510@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))
+更新订阅链接/续费续签失败  注册失败(tmbdwgg908@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cyanmori.com]
 
