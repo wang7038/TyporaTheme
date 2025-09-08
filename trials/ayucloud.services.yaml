@@ -12,6 +12,8 @@ proxy-groups:
   - 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services
   - 🇱🇻 Video 拉脱维亚A-标准 - AyucLouD-Services
   - 🇪🇪 Web 爱沙尼亚I-标准 - AyucLouD-Services
+  - 🇦🇲 Video 亚美尼亚A-标准 - AyucLouD-Services
+  - 🇦🇱 Web 阿尔巴尼亚I-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国01-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国02-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国03-标准 - AyucLouD-Services
@@ -120,6 +122,8 @@ proxies:
 - {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 15558, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
 - {name: 🇱🇻 Video 拉脱维亚A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 39172, type: ss, cipher: aes-128-gcm, password: fagecooal&da, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
 - {name: 🇪🇪 Web 爱沙尼亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 39174, type: ss, cipher: aes-128-gcm, password: fhrtjdxt*&$, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
+- {name: 🇦🇲 Video 亚美尼亚A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 39178, type: ss, cipher: aes-128-gcm, password: gergwasafs&*k, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
+- {name: 🇦🇱 Web 阿尔巴尼亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 39184, type: ss, cipher: aes-128-gcm, password: gftgfddafgdfs, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 913, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a41fe113239.download.windowsupdate.com}, udp: true}
