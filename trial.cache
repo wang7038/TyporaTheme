@@ -7,17 +7,16 @@ email  vyjunxjnd250@tmpnator.live
 last_checkin  2025-10-03 19:37:42.163146+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.133G  2025-10-04 19:37:41+08:00  (剩余 1.133G 19:58:57.966441)
+sub_info  0B  1.133G  2025-10-04 19:37:41+08:00  (剩余 1.133G 19:15:16.474567)
 sub_url  https://network.ayucloud.nl/link/xWv7RR0uwmkHIVqS?clash=1
 time  2025-10-03 19:37:43.110118+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: '222.126.246.' does not appear to be an IPv4 or IPv6 network
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(gfdemccef657@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7f796ef640>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(jsdwate418@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f79c7022890>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
