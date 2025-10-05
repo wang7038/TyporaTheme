@@ -1,23 +1,23 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top
+banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com
 buy  pass
 email  fgnhcba181@pastryofistanbul.com
-last_checkin  2025-10-05 00:41:30.795689+08:00
+last_checkin  2025-10-06 00:41:02.570521+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.149G  2025-10-06 00:41:30+08:00  (剩余 1.149G 0:21:14.269058)
+sub_info  0B  1.773G  2025-10-06 00:41:30+08:00  (剩余 1.773G -1 day, 23:59:19.696865)
 sub_url  https://network.ayucloud.nl/link/IJ3BP8FQpOwDIwpQ?clash=1
 time  2025-10-05 00:41:31.784952+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hnftjmmul61@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ofpwlten854@tomystudio.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ttxwkamp43@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fac84f8efe0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(oqqdxbmbx706@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5fa87fb1f0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
