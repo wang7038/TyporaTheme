@@ -7,18 +7,18 @@ email  vmrnmwpdy759@linshiyou.com
 last_checkin  2025-10-06 01:15:07.581649+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.042G  2025-10-07 01:15:07+08:00  (剩余 1.042G 0:27:47.230587)
+sub_info  0B  1.042G  2025-10-07 01:15:07+08:00  (剩余 1.042G -1 day, 23:55:56.993462)
 sub_url  https://network.ayucloud.nl/link/UDCT91X6MqbNIcRt?clash=1
 time  2025-10-06 01:15:08.529171+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(uravxgje711@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f997fb7fdf0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(cnnzoxmjm420@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5211ae9b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yowzvtsj383@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f997fb7da20>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(uhpfalcxe204@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa5211af910>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
