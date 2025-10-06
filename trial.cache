@@ -4,21 +4,22 @@ auto_invite  F
 banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com
 buy  pass
 email  vmrnmwpdy759@linshiyou.com
-last_checkin  2025-10-06 01:15:07.581649+08:00
+last_checkin  2025-10-07 01:38:51.160594+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  0B  1.042G  2025-10-07 01:15:07+08:00  (剩余 1.042G -1 day, 23:55:56.993462)
 sub_url  https://network.ayucloud.nl/link/UDCT91X6MqbNIcRt?clash=1
 time  2025-10-06 01:15:08.529171+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(cnnzoxmjm420@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5211ae9b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+保存base64/clash订阅失败  'proxies'
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(xyiablvq896@moakt.co): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(uhpfalcxe204@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa5211af910>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(dxxblxi463@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1a05edb670>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
