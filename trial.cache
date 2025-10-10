@@ -1,24 +1,24 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com  ipiso.tmmad.com  psnator.com  mail.wvwvw.tech
+banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com  ipiso.tmmad.com  psnator.com  mail.wvwvw.tech  adtgng.tmmad.com
 buy  pass
 email  ardnfkrq261@tmpnator.live
 last_checkin  2025-10-10 00:48:04.511641+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-10 15:38:41+08:00  (剩余 0B -1 day, 20:00:49.989421)
+sub_info  0B  0B  2025-10-10 15:38:41+08:00  (剩余 0B -1 day, 18:58:05.171149)
 sub_url  https://network.ayucloud.nl/link/CGLDhaKCrjfXKGrW?clash=1
 time  2025-10-09 15:38:42.791457+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(mfedton747@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xloziqs315@adtgng.tmmad.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iiniwat531@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdee0b8f100>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(xblxtuv20@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7facaa983550>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
