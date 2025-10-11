@@ -4,20 +4,19 @@ auto_invite  F
 banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com  ipiso.tmmad.com  psnator.com  mail.wvwvw.tech  adtgng.tmmad.com
 buy  pass
 email  afqxfks341@guerrillamail.net
-last_checkin  2025-10-11 23:16:21.103671+08:00
+last_checkin  2025-10-12 03:12:52.667747+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.03G  2025-10-12 23:16:20+08:00  (剩余 1.03G 20:34:18.011000)
+sub_info  0B  1.678G  2025-10-12 23:16:20+08:00  (剩余 1.678G 20:03:22.257614)
 sub_url  https://network.ayucloud.nl/link/G8l4gjBsASKTIel8?clash=1
 time  2025-10-11 23:16:22.078472+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(anazcapoc585@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff40002caf0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(hteuppnot300@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f32a7deb8b0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
