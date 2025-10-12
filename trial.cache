@@ -6,17 +6,18 @@ buy  pass
 email  afqxfks341@guerrillamail.net
 last_checkin  2025-10-12 03:12:52.667747+08:00
 name  AyucLouD-Services
-node_n  0
-sub_info  0B  1.678G  2025-10-12 23:16:20+08:00  (剩余 1.678G 1:00:28.027589)
+node_n  105
+sub_info  0B  1.678G  2025-10-12 23:16:20+08:00  (剩余 1.678G 0:38:56.138263)
 sub_url  https://network.ayucloud.nl/link/G8l4gjBsASKTIel8?clash=1
 time  2025-10-11 23:16:22.078472+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(wcsdtxdgf935@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cckacfga31@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fac5d18f460>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(zbusnnu722@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdc52962bc0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
