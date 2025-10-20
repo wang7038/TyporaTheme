@@ -7,17 +7,16 @@ email  zqagbvvo400@linshiyou.com
 last_checkin  2025-10-20 03:37:37.768594+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.143G  2025-10-21 03:37:37+08:00  (剩余 1.143G 9:54:51.493147)
+sub_info  0B  1.143G  2025-10-21 03:37:37+08:00  (剩余 1.143G 9:16:04.560735)
 sub_url  https://network.ayucloud.nl/link/63j5jConeZzLhhw5?clash=1
 time  2025-10-20 03:37:38.738649+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(oxcnfye737@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc53a5eb040>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(ijftdnj375@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f687e6ee980>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
