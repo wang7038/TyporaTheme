@@ -7,7 +7,7 @@ email  guxhjor671@guerrillamail.net
 last_checkin  2025-11-09 15:18:11.687039+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.149G  2025-11-10 15:18:11+08:00  (剩余 1.149G 23:59:51.559534)
+sub_info  0B  1.149G  2025-11-10 15:18:11+08:00  (剩余 1.149G 23:41:23.345123)
 sub_url  https://network.ayucloud.nl/link/lZ9EawUznORlBh6d?clash=1
 time  2025-11-09 15:18:12.629917+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cymqrlu178@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdf30b27640>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(jqinvjr852@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7343b925f0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
