@@ -11,13 +11,13 @@ sub_info  0B  1.816G  2025-11-23 11:37:35+08:00  (剩余 1.816G 0:09:48.461101)
 sub_url  https://network.ayucloud.nl/link/v5wUouqZTEEPy6ka?clash=1
 time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
-更新订阅链接/续费续签失败  未找到订阅链接
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ylftcgpiv189@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc205efe980>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(chqghatfz974@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fce1a6ee980>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
