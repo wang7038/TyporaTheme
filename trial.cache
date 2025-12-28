@@ -13,13 +13,13 @@ time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 67, column 70: ... block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold"> ... ^ (line: 67)
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by NewConnectionError("HTTPSConnection(host='ayucloud.services', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(dxmupam436@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f8456a61f60>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(ubldadg425@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f51c16b8ca0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 
