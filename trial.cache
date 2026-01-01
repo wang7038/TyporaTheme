@@ -11,15 +11,15 @@ sub_info  0B  1.816G  2025-11-23 11:37:35+08:00  (剩余 1.816G 0:09:48.461101)
 sub_url  https://network.ayucloud.nl/link/v5wUouqZTEEPy6ka?clash=1
 time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 1, column 1661: ... 4px}@media (prefers-color-scheme: dark){body{background-color:#2 ... ^ (line: 1)
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rdvndodpa299@moakt.cc): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(nojkalqfz321@bareed.ws): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nteyenks990@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7fe2afecb220>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(cdlaija911@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ww38.qlgq.top'. (_ssl.c:1017)")))
 
 [cyanmori.com]
 
