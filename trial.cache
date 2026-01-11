@@ -13,13 +13,14 @@ time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ayucloud.services', port=443) at 0x7f6e2ffcd0f0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ayucloud.services', port=443) at 0x7f6e30062fb0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hilmwwptc105@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7fb1868fc490>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(shnguttyq282@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f6e2ffcdde0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 
