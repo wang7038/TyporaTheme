@@ -4,7 +4,7 @@ auto_invite  F
 banned_domains  wfes.site  bccto.cc  deomail.top  huiplay.com  jkb.tmmad.com  51788.top  tomystudio.com  ipiso.tmmad.com  psnator.com  mail.wvwvw.tech  adtgng.tmmad.com  lyx13.xyz  mxl001.win  femailtor.com  bookmorpho.cfd  snapmail.cc  xxxhi.cc  25ua.com  mydefipet.live  wwobs.com  965.tmmad.com  smartnator.com  vapeuccino.com  lplso.tmmad.com  xdanae.com  jkd.tmmad.com  lista.cc  rgzx.tmmad.com  12316hfk.com  lushenticbag.com  XDANAE.COM  JKD.TMMAD.COM  mail.shouyou789.com  x866.cc  vapelato.com  vapesculpt.com
 buy  pass
 email  rqgfzwy934@tmpnator.live
-last_checkin  2026-02-14 03:22:39.976728+08:00
+last_checkin  2026-02-15 01:51:07.120716+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  0B  1.816G  2025-11-23 11:37:35+08:00  (剩余 1.816G 0:09:48.461101)
@@ -13,14 +13,13 @@ time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(txffxrdrn154@spam4.me): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(upfolgasz302@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f93ea7670d0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(xlgiqcy344@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f2291ffa7d0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 
