@@ -19,7 +19,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ucsgadof761@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f79dc757be0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(gxawlwb781@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7fec642054b0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 
