@@ -20,7 +20,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ugtbusb112@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.qlgq.top', port=443): Failed to resolve 'ww38.qlgq.top' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(dfahqza234@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.qlgq.top', port=443): Failed to resolve 'ww38.qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 
