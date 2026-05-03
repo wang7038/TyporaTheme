@@ -13,13 +13,13 @@ time  2025-11-22 11:37:37.504719+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/v5wUouqZTEEPy6ka?clash=1 (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/v5wUouqZTEEPy6ka?clash=1 (Caused by NewConnectionError("HTTPSConnection(host='ayucloud.services', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(kelsqjco492@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.qlgq.top', port=443): Failed to resolve 'ww38.qlgq.top' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(nbvramq829@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.qlgq.top', port=443): Failed to resolve 'ww38.qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 
