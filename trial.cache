@@ -2,7 +2,7 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(vqyveil622@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(lvozfpzdr189@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Read timed out. (read timeout=30)
 
 [qlgq.top]
 
