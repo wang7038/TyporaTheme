@@ -11,24 +11,6 @@ proxy-groups:
   proxies:
   - 🎯 全球直连
   - 1
-- name: 🎥 NETFLIX
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - 🎯 全球直连
-  - 1
-- name: ⛔️ 广告拦截
-  type: select
-  proxies:
-  - 🛑 全球拦截
-  - 🎯 全球直连
-  - 🔰 节点选择
-- name: 🚫 运营劫持
-  type: select
-  proxies:
-  - 🛑 全球拦截
-  - 🎯 全球直连
-  - 🔰 节点选择
 - name: 🌍 国外媒体
   type: select
   proxies:
@@ -8414,16 +8396,6 @@ rules:
 - DOMAIN-SUFFIX,officesoftcn.com,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
-- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
-- DOMAIN-KEYWORD,netflixdnstest,🎥 NETFLIX
-- DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🎥 NETFLIX
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
 - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
@@ -8591,6 +8563,16 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
+- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
+- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
+- DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
+- DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
